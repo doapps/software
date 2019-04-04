@@ -1,6 +1,6 @@
 <img  src="https://k62.kn3.net/8/E/0/1/D/C/14D.png"  height="150">
 
-## [Wiki](https://github.com/doapps/software/wiki/Capacitación-inicio)
+## [Wiki](https://github.com/doapps/software/wiki)
 La presente wiki se divide en tres secciones:
 * [Capacitación](https://github.com/doapps/software/wiki/Capacitación-inicio)
 * [Manuales](https://github.com/doapps/software/wiki/Manuales-inicio)

@@ -1,7 +1,7 @@
 <img  src="https://k62.kn3.net/8/E/0/1/D/C/14D.png"  height="150">
 
 ## Wiki
-La presente wiki creado y administrada por [DoApps](http://www.doapps.me/) se divide en tres secciones:
+La presente wiki se divide en tres secciones:
 * [Capacitación](https://github.com/doapps/software/wiki/Capacitación-inicio)
 * [Manuales](https://github.com/doapps/software/wiki/Manuales-inicio)
 * [Herramientas](https://github.com/doapps/software/wiki/Herramientas-inicio)
